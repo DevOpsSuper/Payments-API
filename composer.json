@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": "^8.3",
-        "finxp/flexcube-payments-api": "^v0.0.1-beta",
+        "finxp/flexcube-payments-api": "^v1.0.0",
         "guzzlehttp/guzzle": "^7.9.2",
         "laravel/framework": "^11.0",
         "laravel/tinker": "^2.9.0"
